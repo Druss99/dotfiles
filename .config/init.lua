@@ -927,7 +927,7 @@ require('lazy').setup({
   --  Uncomment the following line and add your plugins to `lua/custom/plugins/*.lua` to get going.
   -- { import = 'custom.plugins' },
   --
-  -- For additional information with loading, sourcing and examples see `:help lazy.nvim-í´Œ-plugin-spec`
+  -- For additional information with loading, sourcing and examples see `:help lazy.nvim-ï¿½ï¿½ï¿½-plugin-spec`
   -- Or use telescope!
   -- In normal mode type `<space>sh` then write `lazy.nvim-plugin`
   -- you can continue same window with `<space>sr` which resumes last telescope search
@@ -937,18 +937,18 @@ require('lazy').setup({
     -- default lazy.nvim defined Nerd Font icons, otherwise define a unicode icons table
     icons = vim.g.have_nerd_font and {} or {
       cmd = 'âŒ˜',
-      config = 'í» ',
-      event = 'í³…',
-      ft = 'í³‚',
+      config = 'ğŸ› ',
+      event = 'ğŸ“…',
+      ft = 'ğŸ“‚',
       init = 'âš™',
-      keys = 'í·',
-      plugin = 'í´Œ',
-      runtime = 'í²»',
-      require = 'í¼™',
-      source = 'í³„',
-      start = 'íº€',
-      task = 'í³Œ',
-      lazy = 'í²¤ ',
+      keys = 'ğŸ—',
+      plugin = 'ğŸ”Œ',
+      runtime = 'ğŸ’»',
+      require = 'ğŸŒ™',
+      source = 'ğŸ“„',
+      start = 'ğŸš€',
+      task = 'ğŸ“Œ',
+      lazy = 'ğŸ’¤ ',
     },
   },
 })
